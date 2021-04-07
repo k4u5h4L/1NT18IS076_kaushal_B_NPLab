@@ -4,6 +4,11 @@ A documentation repo for recording day to day progress of NP Lab 6th sem.
 # To install:
 Visit [here](https://www.nsnam.org/releases/ns-3-30/download/) to download the source code. Unzip the tar file and continnue with the procedure below.
 
+### Note:
+For the above step, you'll need to compile both ns3 and netanim yourself. If you want the prebuilt binaries, you can visit [this](https://drive.google.com/file/d/1A34U-phVWJjry_pkU3wtNgcpAM-z2Gur/view?usp=sharing) link, where I have compiled everything. You can then continue with the procedure of execution as expected.
+
+Optionally, 
+
 # To run:
 
 ```bash
