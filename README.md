@@ -1,6 +1,9 @@
 # 1NT18IS076_kaushal_B_NPLab
 A documentation repo for recording day to day progress of NP Lab 6th sem.
 
+# To install:
+Visit [here](https://www.nsnam.org/releases/ns-3-30/download/) to download te source code. Unzip the tar file and continnue with the procedure below.
+
 # To run:
 
 ```bash
