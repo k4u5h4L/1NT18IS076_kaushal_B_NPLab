@@ -15,6 +15,7 @@ cd scratch [TAB]
 [Write your program]
 
 cd ..
+[If you are running it for the first time, configure waf by running >> ./waf configure]
 ./waf
 ./waf --run scratch/filename [without extension]
 cd ..
