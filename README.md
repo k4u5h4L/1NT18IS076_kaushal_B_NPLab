@@ -1,10 +1,13 @@
 # 1NT18IS076_kaushal_B_NPLab
+
 A documentation repo for recording day to day progress of NP Lab 6th sem.
 
 # To install:
+
 Visit [here](https://www.nsnam.org/releases/ns-3-30/download/) to download the source code. Unzip the tar file and continnue with the procedure below.
 
 ### Note:
+
 For the above step, you'll need to compile both ns3 and netanim yourself. If you want the prebuilt binaries, you can visit [this](https://drive.google.com/file/d/1GZysjMt88bO_2EeYX6D_epMgTr5053QL/view?usp=sharing) link, where I have compiled everything needed. You can then continue with the procedure of execution as expected.
 
 # To run:
@@ -30,4 +33,4 @@ cd netanim-3.108 [TAB] # see to it that you visit the right folder
 # configure the options, like keep the speed as 'slow', to observe the packet
 ```
 
-This is how you run a program in this repository on the lab computers.
+This is how you run a program in Part B in this repository on the lab computers.
