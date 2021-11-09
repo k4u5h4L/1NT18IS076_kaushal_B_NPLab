@@ -1,10 +1,12 @@
 # 1NT18IS076_kaushal_B_NPLab
+
 A documentation repo for recording day to day progress of NP Lab 6th sem.
 
 # Note:
 This repo is no longer maintained. I have another GitHub account for college stuff which is forked from this repo. You can visit that [here](https://github.com/1NT18IS076/1NT18IS076_kaushal_B_npLab).
 
 # To install:
+
 Visit [here](https://www.nsnam.org/releases/ns-3-30/download/) to download the source code. Unzip the tar file and continnue with the procedure below.
 
 ### Note:
@@ -21,7 +23,7 @@ cd scratch [TAB]
 [Write your program]
 
 cd ..
-[If you are running it for the first time, configure waf by running => $ ./waf configure]
+[If you are running it for the first time (without compiling), configure waf by running => $ ./waf configure]
 ./waf
 ./waf --run scratch/filename [without extension]
 cd ..
@@ -33,4 +35,4 @@ cd netanim-3.108 [TAB] # see to it that you visit the right folder
 # configure the options, like keep the speed as 'slow', to observe the packet
 ```
 
-This is how you run a program in this repository on the lab computers.
+This is how you run a program in Part B in this repository on the lab computers.
